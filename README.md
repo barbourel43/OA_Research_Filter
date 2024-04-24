@@ -1,4 +1,4 @@
-filtered_search_pack
+OA_Research_Filter
 ===========
 OA_Research_Filter is a searching tool that utilizes the OpenAlex api to retrieve publications within the OpenAlex database.
 Users may specify a keyword related to their subject of interest and the earliest year of publication they would like to 
